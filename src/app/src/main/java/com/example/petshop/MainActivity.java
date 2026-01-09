@@ -36,5 +36,8 @@ public class MainActivity extends AppCompatActivity {
         pettablePets.add(cat);
         pettablePets.add(dog);
         // pettablePets.add(scorpion); - Not pettable
+
+        Happy happy = new Happy();
+        Sad sad = new Sad();
     }
 }
